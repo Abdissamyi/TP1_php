@@ -1,3 +1,2 @@
-1;IBBAALI;Samir;GI;13;etu_6afb2c24506c8.png
-3;Ahmed;Mohammed;GI;17;etu_6afb2c9bddc7d.png
-4;Allaoui;Yassine;GE;18;etu_6afb2cea0a8ca.png
+
+
